@@ -1,11 +1,18 @@
+
 # 👋 Hi, I’m Tanisha Chaudhari  
 🌱 Continuously learning, constantly creating
 
 ### 🌟 CSE Student | JAVA & MERN Stack Enthusiast | AI & Cloud Learner
 
 - 🌱 Learning: MERN Stack, Cloud, MySQL  
-- 💬 Ask me about: Java, React, Git, MySQL  
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/tanisha-chaudhari)
+- 💬 Ask me about: Java, Javascript, React, Git, MySQL
+---
+
+### 🔗 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/tanisha-chaudhari"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+<a href="mailto:tanisha.chaudhari@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -31,5 +38,4 @@
 
 ---
 
-> *"On a journey to turn knowledge into real-world impact- one line of code at a time."*  
-*Made with 💙 by Tanisha Chaudhari*
+<p align="center"><i>"On a journey to turn knowledge into real-world impact — one line of code at a time."</i></p>
