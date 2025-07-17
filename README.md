@@ -4,7 +4,7 @@
 
 ### 🌟 CSE Student | JAVA & MERN Stack Enthusiast | AI & Cloud Learner
 
-- 🌱 Learning: MERN Stack, Cloud, MySQL  
+- 🌱 Learning: MERN Stack, Cloud
 - 💬 Ask me about: Java, Javascript, React, Git, MySQL
 ---
 
