@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Tanisha Chaudhari  
 🌱 Continuously learning, constantly creating
 
-### 🌟 CSE Student | JAVA & Cloud Enthusiast | MERN stack Learner
+### 🌟 CSE Student | JAVA & Cloud Enthusiast | REACT Learner
 
 - 🌱 Learning: MERN Stack, Cloud
 - 💬 Ask me about: Java, Javascript, React, Git, MySQL
